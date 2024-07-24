@@ -18,7 +18,6 @@
   <a href="https://sikcoding.tistory.com/">
     <img src="https://github-readme-tistory-card.vercel.app/api?name=SeoJaeSik&theme=default">
   </a>
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://sikcoding.tistory.com/)
 </div>
 <h3 align="center">📞 Contact 📞</h3>
 
