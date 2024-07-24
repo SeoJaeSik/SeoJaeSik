@@ -15,6 +15,10 @@
 <h3 align="center">📝 Dev Log 📝</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+  <a href="https://sikcoding.tistory.com/">
+    <img src="https://github-readme-tistory-card.vercel.app/api?name=SeoJaeSik&theme=default">
+  </a>
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://sikcoding.tistory.com/)
 </div>
 <h3 align="center">📞 Contact 📞</h3>
 
