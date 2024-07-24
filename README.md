@@ -8,7 +8,7 @@
 
 <div align="center" style="display:flex; flex-direction:row;">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJaeSik&layout=compact&theme=dark">&nbsp -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut">
   <img src="https://github-readme-stats.vercel.app/api?username=SeoJaeSik&include_all_commits=true&show_icons=true&theme=dark#gh-dark-mode-only">&nbsp
 </div>
 
