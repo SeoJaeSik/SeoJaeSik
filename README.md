@@ -29,7 +29,15 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">&nbsp
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">&nbsp
 </div>
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
+</div>
+<!-- 스웨 https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white -->
 
 
 <h3 align="center">📝 Dev Log 📝</h3>
@@ -47,4 +55,5 @@
 </div>
 
 <!-- 뱃지 참조 https://github.com/Envoy-VC/awesome-badges?tab=readme-ov-file -->
+<!-- 아이콘 https://simpleicons.org/ -->
 
