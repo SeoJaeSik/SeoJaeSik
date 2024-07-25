@@ -7,6 +7,7 @@
 </div>
 
 <br>
+<br>
 
 <div align="center" style="display:flex; flex-direction:row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJaeSik&layout=compact&theme=dark">&nbsp&nbsp&nbsp
@@ -56,6 +57,7 @@
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
 </div>
+<br>
 <br>
 
 <h3 align="center">📞 Contact 📞</h3>
