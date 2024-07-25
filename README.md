@@ -12,16 +12,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SeoJaeSik&include_all_commits=true&show_icons=true&theme=dark#gh-dark-mode-only">
 </div>
 
-<h3 align="center">📌 Tech Stack</h3>
+<h3 align="center">📌 Tech Stack 📌</h3>
 
-<h3 align="center">📝 Dev Log</h3>
+<h3 align="center">📝 Dev Log 📝</h3>
 <div align="center">
   <a href="https://sikcoding.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
   </a>
 </div>
 
-<h3 align="center">📞 Contact</h3>
+<h3 align="center">📞 Contact 📞</h3>
 <div align="center">
   <a href="mailto:sdvilzty@naver.com">
     <img src="https://img.shields.io/badge/NAVER-E?style=for-the-badge&logo=naver&logoColor=white">
