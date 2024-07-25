@@ -22,6 +22,10 @@
 </div>
 
 <h3 align="center">📞 Contact 📞</h3>
-<img src="https://img.shields.io/badge/NAVER-E?style=for-the-badge&logo=naver&logoColor=white">
+<div align="center">
+  <a href="mailto:sdvilzty@naver.com">
+    <img src="https://img.shields.io/badge/NAVER-E?style=for-the-badge&logo=naver&logoColor=white">
+  </a>
+</div>
 
 
