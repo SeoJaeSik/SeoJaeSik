@@ -8,6 +8,7 @@
 
 <br>
 <br>
+<br>
 
 <div align="center" style="display:flex; flex-direction:row;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeoJaeSik&layout=compact&theme=dark">&nbsp&nbsp&nbsp
